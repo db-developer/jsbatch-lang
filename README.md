@@ -1,6 +1,6 @@
 # jsbatch-lang #
 
-batchrun javascript commands
+support package for [jsbatchrun](https://github.com/db-developer/jsbatchrun)
 
 [![npm version](https://img.shields.io/npm/v/jsbatch-lang?color=blue)](https://www.npmjs.com/package/jsbatch-lang)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
