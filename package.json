@@ -1,7 +1,7 @@
 {
   "name": "jsbatch-lang",
-  "version": "0.0.1",
-  "description": "batchbuild js projects",
+  "version": "0.0.2",
+  "description": "support package for jsbatchrun",
   "author": "Dirk Brenckmann <db.developer@gmx.de>",
   "license": "MIT",
   "engines": {
