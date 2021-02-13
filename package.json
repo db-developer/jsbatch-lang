@@ -7,7 +7,7 @@
   "engines": {
     "node": ">=10.15.1"
   },
-  "main": "src/bin/jsbatch-lang",
+  "main": "src/lib",
   "scripts": {
     "all": "grunt all",
     "build": "grunt build",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+http://gitlab.dmz.slashlib.org/db.developer/jsbatch-lang.git"
+    "url": "git+https://github.com/db-developer/jsbatch-lang.git"
   },
   "keywords": [
     "batch"
@@ -27,9 +27,9 @@
     "lib"
   ],
   "bugs": {
-    "url": "http://gitlab.dmz.slashlib.org/db.developer/jsbatch-lang/issues"
+    "url": "https://github.com/db-developer/jsbatch-lang/issues"
   },
-  "homepage": "http://gitlab.dmz.slashlib.org/db.developer/jsbatch-lang#readme",
+  "homepage": "https://github.com/db-developer/jsbatch-lang#readme",
   "peerDependencies": {},
   "devDependencies": {
     "@babel/core": "^7.12.13",
