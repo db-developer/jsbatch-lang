@@ -1,6 +1,6 @@
 {
   "name": "jsbatch-lang",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "support package for jsbatchrun",
   "author": "Dirk Brenckmann <db.developer@gmx.de>",
   "license": "MIT",
@@ -11,6 +11,7 @@
   "scripts": {
     "all": "grunt all",
     "build": "grunt build",
+    "coverage": "grunt coverage",
     "docs": "grunt docs",
     "test": "grunt test",
     "update": "npx npm-check-updates -u -x webpack"
