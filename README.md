@@ -8,7 +8,7 @@ support package for [jsbatchrun](https://github.com/db-developer/jsbatchrun)
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.svg)](https://gruntjs.com/)
 [![codecov](https://codecov.io/gh/db-developer/jsbatch-lang/branch/master/graph/badge.svg)](https://codecov.io/gh/db-developer/jsbatch-lang)
 [![Build Status](https://travis-ci.com/db-developer/jsbatch-lang.svg?branch=master)](https://travis-ci.com/db-developer/jsbatch-lang)
-[![dependencies](https://david-dm.org/db-developer/jsbatch-lang.svg)](https://david-dm.org/)
+[![dependencies](https://img.shields.io/librariesio/release/npm/jsbatch-lang)](https://libraries.io/)
 
 ## content ##
 
